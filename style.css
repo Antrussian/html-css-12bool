@@ -1,16 +1,20 @@
 body {
-    font-size: 10px;
+    font-size: 7px;
     color: white;
 }
 
 
 
 div [class^="col-"] {
-    background-color: blue;
     padding: 10px;
     border: 1px solid white;
     text-align: center;
 }
 
+.container {
+    background-color: blue;
+}
 
-
+.green {
+    background-color: yellowgreen;
+}
